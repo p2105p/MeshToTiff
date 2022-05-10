@@ -10,10 +10,10 @@ This Rhinoceros V6/V7 plugin creates a grayscale 16 bit tiff file with the heigh
 launch plugin with the MeshToTiff command
 
 ### Select surface
-select the reference surface
+select a single reference surface
 
 ### Select mesh
-select the mesh to calculate
+select a single mesh to calculate
 
 ### image size U (pixels), Image size V (pixels)
 set tiff image size in pixels
