@@ -2,7 +2,7 @@
 
 ## description
 
-This Rhinoceros V6/V7 plugin creates a grayscale 16 bit tiff file with the heightmap representation of the selected mesh using a single surface as reference for depth calculation. The projection is perpendicular to the surface. It use the libtiff library by BitMiracle: https://github.com/BitMiracle/libtiff.net
+This Rhinoceros V6/V7 plugin creates a high-precision grayscale 16 bit tiff file with the heightmap representation of the selected mesh using a single surface as reference for depth calculation. The projection is perpendicular to the surface. It use the libtiff library by BitMiracle: https://github.com/BitMiracle/libtiff.net
 
 ## usage
 
